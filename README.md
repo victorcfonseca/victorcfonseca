@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently I'm working at QuintoAndar 🏠 🇧🇷
+- I'm currently working at QuintoAndar 🏠 🇧🇷
+- I'm currently learning Python, CI / CD and anything about observability. 🤓
 - My hobbies are: 💻 📚 🏃 🚴 🍻

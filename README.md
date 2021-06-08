@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - I'm currently working at QuintoAndar 🏠 🇧🇷
 - I'm currently learning Python, CI / CD and anything about observability. 🤓
 - My hobbies are: 💻 📚 🏃 🚴 🍻
+
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)

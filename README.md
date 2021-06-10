@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - I'm currently learning Python, CI / CD and anything about observability. 🤓
 - My hobbies are: 💻 📚 🏃 🚴 🍻
 
+<img src="https://github.com/victorcfonseca/github_snake/blob/output/github-contribution-grid-snake.svg">
+
 <a href="https://www.linkedin.com/in/victorcfonseca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-![Test]
-<img src="https://github.com/victorcfonseca/github_snake/blob/output/github-contribution-grid-snake.svg">
+
+

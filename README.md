@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/victorcfonseca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
+![Test]
 <img src="https://github.com/victorcfonseca/github_snake/blob/output/github-contribution-grid-snake.svg">

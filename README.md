@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working at [QuintoAndar](https://www.quintoandar.com.br) and we are alwaus hiring! 🏠 🇧🇷
+- I'm currently working at [QuintoAndar](https://www.quintoandar.com.br) and we are alwaus [hiring](https://apply.workable.com/quintoandar/)! 🏠 🇧🇷
 - I'm currently learning Python, CI / CD and anything about observability. 🤓
 - My hobbies are: 💻 📚 🏃 🚴 🍻
 
